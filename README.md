@@ -17,7 +17,7 @@
    - README 수정
    - ex) docs: day1 추가
 - **add**
-   - 파일 및 폴더 추가
+   - 파일 및 폴더, 문제 및 해설 추가
    - ex) add: ch26 문제,해설 추가
 - **fix**
    - 문제 및 해설 수정
@@ -26,3 +26,6 @@
 > 참고2 : 단원을 표현할 땐, ch로 작성바랍니다.
 
 ### 📂 목차
+#### [DAY1] 22.04.16
+- Chapter26 : ES6 함수의 추가 기능 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter26/ch26-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter26/ch26-%ED%95%B4%EC%84%A4.md))
+- Chapter28 : Number ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter28/ch28-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter28/ch28-%ED%95%B4%EC%84%A4.md))
