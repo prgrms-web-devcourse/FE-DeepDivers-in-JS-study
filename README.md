@@ -26,6 +26,11 @@
 > 참고2 : 단원을 표현할 땐, ch로 작성바랍니다.
 
 ### 📂 목차
-#### [DAY1] 22.04.16
+#### [DAY1] 22.04.15
 - Chapter26 : ES6 함수의 추가 기능 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter26/ch26-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter26/ch26-%ED%95%B4%EC%84%A4.md))
 - Chapter28 : Number ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter28/ch28-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter28/ch28-%ED%95%B4%EC%84%A4.md))
+
+#### [DAY2] 22.04.22
+- Chapter27 : 배열 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter27/ch27-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter27/ch27-%ED%95%B4%EC%84%A4.md))
+- Chapter29 : Math ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter29/ch29-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter29/ch29-%ED%95%B4%EC%84%A4.md))
+- Chapter30 : Date ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter30/ch30-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter30/ch30-%ED%95%B4%EC%84%A4.md))
