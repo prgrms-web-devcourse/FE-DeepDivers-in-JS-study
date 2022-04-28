@@ -35,7 +35,11 @@
 - Chapter29 : Math ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter29/ch29-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter29/ch29-%ED%95%B4%EC%84%A4.md))
 - Chapter30 : Date ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter30/ch30-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter30/ch30-%ED%95%B4%EC%84%A4.md))
 
-#### [DAY3] 22.04.26
+#### [DAY3] 22.04.27
 - Chapter31 : RegExp ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter31/ch31-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter31/ch31-%ED%95%B4%EC%84%A4.md))
 - Chapter32 : String ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter32/ch32-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter32/ch32-%ED%95%B4%EC%84%A4.md))
 - Chapter33 : 7번째 데이터 타입 Symbol ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter33/ch33-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter33/ch33-%ED%95%B4%EC%84%A4.md))
+
+#### [DAY4] 22.04.29
+- Chapter34 : 이터러블 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter34/ch34-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter34/ch34-%ED%95%B4%EC%84%A4.md))
+- Chapter35 : 스프레드 문법 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter35/ch35-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter35/ch35-%ED%95%B4%EC%84%A4.md))
