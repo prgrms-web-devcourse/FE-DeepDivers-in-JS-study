@@ -44,6 +44,9 @@
 - Chapter34 : 이터러블 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter34/ch34-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter34/ch34-%ED%95%B4%EC%84%A4.md))
 - Chapter35 : 스프레드 문법 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter35/ch35-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter35/ch35-%ED%95%B4%EC%84%A4.md))
 
-#### [DAY5] 22.05.07
+#### [DAY5] 22.05.08
 - Chapter36 : 디스트럭처링 할당 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter36/ch36-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter36/ch36-%ED%95%B4%EC%84%A4.md))
 - Chapter37 : Set과 Map ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter37/ch37-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter37/ch37-%ED%95%B4%EC%84%A4.md))
+
+#### [DAY6] 22.05.11
+- Chapter38 : 브라우저의 렌더링 과정 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-%ED%95%B4%EC%84%A4.md))
