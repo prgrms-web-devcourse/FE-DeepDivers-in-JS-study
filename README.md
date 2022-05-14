@@ -50,3 +50,6 @@
 
 #### [DAY6] 22.05.11
 - Chapter38 : 브라우저의 렌더링 과정 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-%EB%AC%B8%EC%A0%9C.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-%ED%95%B4%EC%84%A4.md))
+
+#### [DAY7] 22.05.15
+- Chapter39 : DOM ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter39/ch38-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter39/ch38-해설.md))
