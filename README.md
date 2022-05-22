@@ -22,8 +22,8 @@
 - **fix**
    - 문제 및 해설 수정
    - ex) fix: ch26 해설 오타 수정
-> 참고1 : 가능한 소문자 영문 사용을 권장합니다.   
-> 참고2 : 단원을 표현할 땐, ch로 작성바랍니다.
+> 참고1 : 가능한 영문 소문자 사용을 권장합니다.   
+> 참고2 : 단원 표현시, ch로 작성바랍니다.
 
 ### 📂 목차
 #### [DAY1] 22.04.15
@@ -51,5 +51,8 @@
 #### [DAY6] 22.05.11
 - Chapter38 : 브라우저의 렌더링 과정 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter38/ch38-해설.md))
 
-#### [DAY7-8] 22.05.15, 22.05.20
+#### [DAY7-8] 22.05.15, 22.05.22
 - Chapter39 : DOM ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter39/ch39-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter39/ch39-해설.md))
+
+#### [DAY9] 22.05.25
+- Chapter40 : 이벤트 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter40/ch40-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter40/ch40-해설.md))
