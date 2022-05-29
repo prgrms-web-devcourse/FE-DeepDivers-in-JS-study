@@ -57,7 +57,8 @@
 #### [DAY9] 22.05.25
 - Chapter40 : 이벤트 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter31~40/Chapter40/ch40-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter31~40/Chapter40/ch40-해설.md))
 
-#### [DAY10] 22.05.29
+#### [DAY10] 22.06.01
 - Chapter41 : 타이머 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter41/ch41-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter41/ch41-해설.md))
 - Chapter42 : 비동기 프로그래밍 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter42/ch42-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter42/ch42-해설.md))
 - Chapter43 : Ajax ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter43/ch43-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter43/ch43-해설.md))
+- Chapter44 : REST API ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter44/ch44-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter44/ch44-해설.md))
