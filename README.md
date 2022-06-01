@@ -62,3 +62,6 @@
 - Chapter42 : 비동기 프로그래밍 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter42/ch42-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter42/ch42-해설.md))
 - Chapter43 : Ajax ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter43/ch43-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter43/ch43-해설.md))
 - Chapter44 : REST API ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter44/ch44-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter44/ch44-해설.md))
+
+#### [DAY11] 22.06.04
+- Chapter45 : 프로미스 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-해설.md))
