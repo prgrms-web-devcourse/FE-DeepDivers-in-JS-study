@@ -65,3 +65,8 @@
 
 #### [DAY11] 22.06.04
 - Chapter45 : 프로미스 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-해설.md))
+
+#### [DAY12] 22.06.09
+- Chapter46 : 제너레이터와 async/await ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter46/ch46-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter46/ch46-해설.md))
+- Chapter47 : 에러 처리 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter47/ch47-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter47/ch47-해설.md))
+- Chapter48 : 모듈 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter48/ch48-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter48/ch48-해설.md))
