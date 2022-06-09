@@ -66,7 +66,11 @@
 #### [DAY11] 22.06.04
 - Chapter45 : 프로미스 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter45/ch45-해설.md))
 
-#### [DAY12] 22.06.09
+#### [DAY12] 22.06.11
 - Chapter46 : 제너레이터와 async/await ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter46/ch46-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter46/ch46-해설.md))
 - Chapter47 : 에러 처리 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter47/ch47-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter47/ch47-해설.md))
 - Chapter48 : 모듈 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter48/ch48-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter48/ch48-해설.md))
+- Chapter49 : Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter49/ch49-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter41~49/Chapter49/ch49-해설.md))
+- Chapter01 : 프로그래밍 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter01/ch01-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter01/ch01-해설.md))
+- Chapter02 : 자바스크립트란? ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter02/ch02-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter02/ch02-해설.md))
+- Chapter03 : 자바스크립트 개발 환경과 실행 방법 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter03/ch03-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter03/ch03-해설.md))
