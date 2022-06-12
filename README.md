@@ -74,3 +74,7 @@
 - Chapter01 : 프로그래밍 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter01/ch01-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter01/ch01-해설.md))
 - Chapter02 : 자바스크립트란? ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter02/ch02-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter02/ch02-해설.md))
 - Chapter03 : 자바스크립트 개발 환경과 실행 방법 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter03/ch03-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter03/ch03-해설.md))
+
+#### [DAY13] 22.06.15
+- Chapter04 : 변수 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter04/ch04-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter04/ch04-해설.md))
+- Chapter05 : 표현식과 문 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter05/ch05-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter05/ch05-해설.md))
