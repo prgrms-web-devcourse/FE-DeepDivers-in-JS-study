@@ -84,3 +84,8 @@
 - Chapter07 : 연산자 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter07/ch07-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter07/ch07-해설.md))
 - Chapter08 : 제어문 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter08/ch08-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter08/ch08-해설.md))
 - Chapter09 : 타입 변환과 단축 평가 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter09/ch09-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter09/ch09-해설.md))
+
+#### [DAY15] 22.07.03
+- Chapter10 : 객체 리터럴 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter10/ch10-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter10/ch10-해설.md))
+- Chapter11 : 원시 값과 객체의 비교 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter11/ch11-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter11/ch11-해설.md))
+- Chapter12 : 함수 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter12/ch12-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter12/ch12-해설.md))
