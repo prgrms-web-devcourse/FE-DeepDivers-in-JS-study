@@ -89,3 +89,10 @@
 - Chapter10 : 객체 리터럴 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter10/ch10-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter01~10/Chapter10/ch10-해설.md))
 - Chapter11 : 원시 값과 객체의 비교 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter11/ch11-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter11/ch11-해설.md))
 - Chapter12 : 함수 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter12/ch12-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter12/ch12-해설.md))
+
+#### [DAY16] 22.07.10
+- Chapter13 : 스코프 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter13/ch13-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter13/ch13-해설.md))
+- Chapter14 : 전역 변수의 문제점 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter14/ch14-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter14/ch14-해설.md))
+- Chapter15 : let, const 키워드와 블록 레벨 스코프 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter15/ch15-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter15/ch15-해설.md))
+- Chapter16 : 프로퍼티 어트리뷰트 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter16/ch16-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter16/ch16-해설.md))
+- Chapter17 : 생성자 함수에 의한 객체 생성 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter17/ch17-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter17/ch17-해설.md))
