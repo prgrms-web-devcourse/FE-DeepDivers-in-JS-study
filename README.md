@@ -101,6 +101,8 @@
 - Chapter18 : 함수와 일급 객체 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter18/ch18-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter18/ch18-해설.md))
 - Chapter19 : 프로토타입 (~19.7) ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter19/ch19-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter19/ch19-해설.md))
 
-#### [DAY18] 22.07.24
+#### [DAY18] 22.08.28
 - Chapter19 : 프로토타입 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter19/ch19-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter19/ch19-해설.md))
 - Chapter20 : strict mode ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter20/ch20-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter20/ch20-해설.md))
+- Chapter21 : 빌트인 객체 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter21/ch21-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter21/ch21-해설.md))
+- Chapter22 : this ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter22/ch22-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter22/ch22-해설.md))
