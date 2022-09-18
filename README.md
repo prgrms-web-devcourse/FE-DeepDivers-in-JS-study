@@ -106,3 +106,6 @@
 - Chapter20 : strict mode ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter20/ch20-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter11~20/Chapter20/ch20-해설.md))
 - Chapter21 : 빌트인 객체 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter21/ch21-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter21/ch21-해설.md))
 - Chapter22 : this ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter22/ch22-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter22/ch22-해설.md))
+
+#### [DAY19] 22.09.18
+- Chapter23 : 실행 컨텍스트 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter23/ch23-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter23/ch23-해설.md))
