@@ -109,3 +109,6 @@
 
 #### [DAY19] 22.09.18
 - Chapter23 : 실행 컨텍스트 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter23/ch23-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter23/ch23-해설.md))
+
+#### [DAY20] 22.09.25
+- Chapter24 : 클로저 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter24/ch24-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter24/ch24-해설.md))
