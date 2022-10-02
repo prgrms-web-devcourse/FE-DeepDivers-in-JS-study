@@ -112,3 +112,6 @@
 
 #### [DAY20] 22.09.25
 - Chapter24 : 클로저 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter24/ch24-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter24/ch24-해설.md))
+
+#### [DAY21] 22.10.03
+- Chapter25 : 클래스 ([문제](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter25/ch25-문제.md) / [해설](https://github.com/prgrms-web-devcourse/FE-DeepDivers-in-JS-study/blob/main/Chapter21~30/Chapter25/ch25-해설.md))
